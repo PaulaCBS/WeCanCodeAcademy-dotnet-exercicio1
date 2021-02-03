@@ -1,0 +1,13 @@
+C:\Users\Paula\source\repos\WCCA-Exercício1\bin\Debug\netcoreapp3.1\WCCA-Exercício1.exe
+C:\Users\Paula\source\repos\WCCA-Exercício1\bin\Debug\netcoreapp3.1\WCCA-Exercício1.deps.json
+C:\Users\Paula\source\repos\WCCA-Exercício1\bin\Debug\netcoreapp3.1\WCCA-Exercício1.runtimeconfig.json
+C:\Users\Paula\source\repos\WCCA-Exercício1\bin\Debug\netcoreapp3.1\WCCA-Exercício1.runtimeconfig.dev.json
+C:\Users\Paula\source\repos\WCCA-Exercício1\bin\Debug\netcoreapp3.1\WCCA-Exercício1.dll
+C:\Users\Paula\source\repos\WCCA-Exercício1\bin\Debug\netcoreapp3.1\WCCA-Exercício1.pdb
+C:\Users\Paula\source\repos\WCCA-Exercício1\obj\Debug\netcoreapp3.1\WCCA-Exercício1.csprojAssemblyReference.cache
+C:\Users\Paula\source\repos\WCCA-Exercício1\obj\Debug\netcoreapp3.1\WCCA-Exercício1.AssemblyInfoInputs.cache
+C:\Users\Paula\source\repos\WCCA-Exercício1\obj\Debug\netcoreapp3.1\WCCA-Exercício1.AssemblyInfo.cs
+C:\Users\Paula\source\repos\WCCA-Exercício1\obj\Debug\netcoreapp3.1\WCCA-Exercício1.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\WCCA-Exercício1\obj\Debug\netcoreapp3.1\WCCA-Exercício1.dll
+C:\Users\Paula\source\repos\WCCA-Exercício1\obj\Debug\netcoreapp3.1\WCCA-Exercício1.pdb
+C:\Users\Paula\source\repos\WCCA-Exercício1\obj\Debug\netcoreapp3.1\WCCA-Exercício1.genruntimeconfig.cache
